@@ -1,1 +1,3 @@
 the scm file changes checking 
+
+git linking added
